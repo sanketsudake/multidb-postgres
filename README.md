@@ -1,4 +1,4 @@
-multi-db-postgres
+multidb-postgres
 ==================
 
 This postgres image facilitates quick script which can create multiple databases on postgres start.
